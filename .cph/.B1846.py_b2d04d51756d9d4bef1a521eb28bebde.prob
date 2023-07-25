@@ -1,0 +1,1 @@
+{"name":"Local: B1846","url":"/home/aly/codeforces/B1846.py","tests":[{"id":1690285230674,"input":"5\n+X+\nOXO\nOX.\nO+.\n+OX\nX+O\n.XO\nOX.\n+++\nO.+\nX.O\n+..\n.++\nX.O\n+..","output":"X\nO\n+\nDRAW\nDRAW"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aly/codeforces/B1846.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: C1875","url":"/home/aly/codeforces/C1875.py","tests":[{"id":1696165210830,"input":"4\n10 5\n1 5\n10 4\n3 4","output":"0\n-1\n2\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/aly/codeforces/C1875.py","group":"local","local":true}

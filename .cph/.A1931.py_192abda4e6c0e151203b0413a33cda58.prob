@@ -1,0 +1,1 @@
+{"name":"Local: A1931","url":"/Users/user/codeforces/A1931.py","tests":[{"id":1707841531033,"input":"6\n24\n70\n3\n55\n48\n78","output":"aav\nrzz\naaa\nczz\nauz\nzzz"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/user/codeforces/A1931.py","group":"local","local":true}

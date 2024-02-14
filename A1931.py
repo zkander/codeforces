@@ -1,5 +1,6 @@
 
 dic = {
+
     1: 'a',
     2: 'b',
     3: 'c',
@@ -32,9 +33,13 @@ t = int(input())
 for _ in range(t):
     n = int(input())
     x = n // 26
-
     if (x == 0 or n == 26):
         print('a' + 'a' + dic[n-2])
+    elif (n == 27):
+        print('a' + 'a' + dic[25])
+    elif (n == 52):
+        print('a' + dic[26-1] + 'z')
+
     else:
         if (x == 2):
             print(dic[n % 26] + 'z' + 'z')

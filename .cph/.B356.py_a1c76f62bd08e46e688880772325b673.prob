@@ -1,0 +1,1 @@
+{"name":"Local: B356","url":"/Users/user/codeforces/B356.py","tests":[{"id":1714753272947,"input":"5 2\n0 0 0 1 0","output":"1"},{"id":1714753312689,"input":"6 3\n1 1 1 0 1 0","output":"3"},{"id":1714753705665,"input":"1 1\n1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/user/codeforces/B356.py","group":"local","local":true}
